@@ -11,9 +11,9 @@ const DUMMY_PLACES = [
     imageUrl:
       "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
     address: "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
-    locations: {
+    location: {
       lat: 27.1751448,
-      lng: 78.0399535,
+      lng: 78.0399535
     },
     creator: "u1",
   },
@@ -24,9 +24,9 @@ const DUMMY_PLACES = [
     imageUrl:
       "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
     address: "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
-    locations: {
+    location: {
       lat: 27.1751448,
-      lng: 78.0399535,
+      lng: 78.0399535
     },
     creator: "u2",
   },
